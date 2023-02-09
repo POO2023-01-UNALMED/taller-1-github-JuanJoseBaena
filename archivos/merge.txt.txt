@@ -1,4 +1,0 @@
-Juan Jose Baena Garcia
-18 años
-Mi principal aspiracion con este curso es adquirir habilidades de programacion y logica las cuales seran muy utiles a lo largo de la carrera
-¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
