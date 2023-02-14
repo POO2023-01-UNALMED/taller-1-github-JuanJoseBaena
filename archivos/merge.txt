@@ -5,3 +5,7 @@ Mi principal aspiración con este curso es adquirir habilidades de programación
 =======
 
 >>>>>>> 22e384ccfe16b8e604ac44c2e1cc0f6ae54baae2
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+esto puede generar errores al tener un archivo en conflicto en el repositorio local y en el repositorio web
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Se puede subir la carpeta puesto a que se creó directamente en el repositorio web, permitiendo así que no se generaran conflictos con el archivo
