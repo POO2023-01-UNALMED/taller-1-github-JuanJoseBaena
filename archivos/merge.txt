@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Juan Jose Baena Garcia
 18 años
 Mi principal aspiración con este curso es adquirir habilidades de programación y lógica las cuales serán muy útiles a lo largo de la carrera
+=======
+
+>>>>>>> 22e384ccfe16b8e604ac44c2e1cc0f6ae54baae2
