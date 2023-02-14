@@ -1,2 +1,0 @@
-¿Por qué ahora si puedo crear un commit y subir la carpeta?
-Se puede subir la carpeta puesto a que se creo directamente en el repositorio web, permitiendo asi que no se generaran conflictos con el archivo
